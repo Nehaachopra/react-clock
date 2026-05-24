@@ -7,37 +7,28 @@ A beautifully designed multi-utility clock application built using **Next.js**, 
 - Stopwatch
 - Alarm 
 
-<div
-  style="
-    display: grid;
-    grid-template-columns: repeat(2, 1fr);
-    gap: 16px;
-  "
->
+<table>
+  <tr>
+    <td>
   <img
     src="preview/clock.png"
     alt="Home"
-    width="100%"
   />
-
-  <img
+    </td>
+    <td><img
     src="preview/timer.png"
     alt="Single Player"
-    width="100%"
-  />
-
-  <img
+  /></td>
+    <td><img
     src="preview/stopwatch.png"
     alt="Multiplayer"
-    width="100%"
-  />
-
-  <img
+  /></td>
+    <td><img
     src="preview/alarm.png"
     alt="Winner UI"
-    width="100%"
-  />
-</div>
+  /></td>
+  </tr>
+</table>
 
 ## ✨ Features
 
